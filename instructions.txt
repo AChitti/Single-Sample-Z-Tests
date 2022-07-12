@@ -1,0 +1,5 @@
+
+Take the new intervention data and find it’s mean (we’ll call it new sample mean).
+Plot the new sample mean on the graph and check in which deviation it lies.
+If the new mean is greater than the sampling mean then the intervention is successful.
+Find the z score using the formula ( new sample mean - sampling mean) / standard deviation.
